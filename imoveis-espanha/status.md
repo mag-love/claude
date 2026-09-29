@@ -13,7 +13,8 @@ Fernando + Virginia + 2 filhos (8 e 4 anos). Em València desde ago/2026.
 - Situação: aguardando resposta (confirmar).
 
 ## Pendências
-- [ ] Importar histórico dos chats do Claude (colar resumo em `inbox/`)
+- [ ] Importar sessões antigas do Claude Code (ver `fontes.md`; transcrições no Mac)
+- [ ] Negociação com Miguel (e-mail com 5 perguntas redigido em 28/09) — status?
 - [ ] Varrer Gmail (reconectar conector)
 - [ ] Importar conversas de WhatsApp (exportar → Drive ou `inbox/`)
 - [ ] Preencher preço/condições do imóvel C/ Bello

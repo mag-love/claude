@@ -15,6 +15,7 @@ Base de conhecimento em `imoveis-espanha/` (raiz do repo). Fonte da verdade: o q
    - `contatos.md` — proprietários, agentes, plataformas
    - `decisoes.md` — decisões tomadas e por quê (não reabrir sem fato novo)
    - `historico.md` — log datado
+   - `fontes.md` — índice das sessões antigas a importar
 3. Se houver arquivos em `imoveis-espanha/inbox/` (exports de WhatsApp, resumos de chats, e-mails colados): processar, extrair fatos para os arquivos acima e apagar o bruto do inbox.
 
 ## Ao terminar (se algo mudou)
