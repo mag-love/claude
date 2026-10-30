@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "blender": {
-      "command": "/opt/homebrew/bin/uvx",
-      "args": ["blender-mcp"]
-    }
-  }
-}
