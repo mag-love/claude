@@ -41,6 +41,6 @@ As demais regras vão sendo definidas durante o processo.
 |---|---|
 | produtor | Notion, Google Calendar, Drive |
 | diretor-arte | Firefly e Dreamina (prompt), conector Adobe (fontes, ajustes, expandir quadro, boards), Figma |
-| motion | Flow, Firefly e Dreamina (prompt), Replicate/Segmind (API), scripts After Effects |
+| motion | Flow, Firefly e Dreamina (prompt), Replicate/Segmind (API), Blender (conector local no Mac), scripts After Effects |
 | montador | Transcrição local, Drive, XML para o Premiere, ElevenLabs (narração guia) |
 | finalizador | ffmpeg local, conector Adobe (melhorar fala), ElevenLabs (Voice Isolator), Replicate (upscale e restauração de arquivo) |
