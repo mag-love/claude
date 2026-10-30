@@ -1,0 +1,46 @@
+# Recriação 01: Dagoma sobe a escada da ocupação com os toca-discos
+
+- Fala que cobre: _(a definir pelo montador)_. Duração: 10 s, 24 fps, 16:9, 3 planos.
+- Animatic: `animatic_escada_v1.mp4` (blocos: azul = Dagoma, ponto amarelo = rosto, caixa laranja = case dos toca-discos).
+- Cena no Blender (nuvem): https://higgsfield.ai/3d-jutsu/2bf1ad1c-a094-4250-9eef-0d969aa8ef14
+- Status: aguardando aprovação do Fern antes de gastar crédito.
+
+## Referências (ordem de upload)
+
+- **video 1** = `animatic_escada_v1.mp4`
+- **image 1** = frame real da escada em plongée (o que tem o vão até o térreo)
+- **image 2** = frame real com a pessoa subindo (figurino: boné, camiseta branca, bermuda vermelha com listra branca, tênis azul)
+
+O rosto e o corpo do Dagoma só entram com a aprovação dele. Registre nas Notas da entrega no Cronograma.
+
+## Rota A: animatic como guia (colar no Seedance, em inglês)
+
+```
+Documentary recreation, 10 seconds, 16:9, three cuts.
+
+Location: the stairwell of an occupied building in downtown São Paulo, exactly as in image 1 and image 2: a rectangular open well with rounded white concrete parapets, worn grey concrete steps, peeling teal walls, warm orange window light on the lower floors, cool blue-green ambient light.
+
+Character: DAGOMA, the man in image 2, same wardrobe (cap, white oversized T-shirt, red shorts with white side stripes, blue sneakers), carrying a heavy DJ turntable flight case in both arms.
+
+Use video 1 only as a guide for camera position, camera moves and cuts. The colored blocks are placeholders: the blue block is DAGOMA, the yellow dot marks where his face points, the orange box is the turntable case. Do not copy their poses or body mechanics; DAGOMA walks naturally and we feel the weight of the case.
+
+Shot 1 (0.0–3.0 s): ground floor, low frontal camera on the landing. DAGOMA climbs the first flight toward the camera, the case held against his chest, the stairwell rising above him.
+
+Shot 2 (3.0–7.0 s): several floors higher. Handheld camera follows behind and slightly below him as he reaches the corner landing, turns and keeps climbing; heavy breathing, the case shifting in his arms.
+
+Shot 3 (7.0–10.0 s): straight top-down view from the top of the stairwell, matching image 1. DAGOMA climbs the last flight toward the camera, the endless well of stacked floors below him.
+
+Style: observational documentary, natural available light, subtle film grain. No music. Ambient sound only: footsteps on concrete, his breathing, distant voices and a radio from other floors. No text, no logos.
+```
+
+## Rota B: storyboard
+
+Frames-chave do animatic para pintar com o modelo de imagem (mesmo enquadramento, aplicando image 1 e image 2) e depois animar sem o vídeo:
+
+- Plano 1: frame 1036 (`key_1036.png`)
+- Plano 2: frame 1110 (`key_1110.png`)
+- Plano 3: frame 1225 (`key_1225.png`)
+
+## Gasto
+
+Primeiro em rascunho (480p) no Dreamina. Alta resolução só depois de aprovado. Registrar o gasto em Créditos IA.
