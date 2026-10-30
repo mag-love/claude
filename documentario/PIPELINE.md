@@ -24,7 +24,7 @@ As demais regras vão sendo definidas durante o processo.
 
 1. Gate humano: nada vai para "Aprovado" sem o Fern aprovar. O agente para em "Aguardando aprovação".
 2. Créditos: gaste primeiro o que expira antes. Ferramentas ativas: Firefly, Flow, ElevenLabs, Dreamina, Segmind, Replicate.
-3. Higgsfield bloqueado até os créditos das outras zerarem e o Fern aprovar a assinatura. Mesmo com o conector disponível, não use.
+3. Higgsfield: liberado só para o Blender na nuvem (3D Jutsu: montar cena e renderizar animatic, sem crédito). Geração paga (vídeo, imagem) continua bloqueada até os créditos das outras zerarem e o Fern aprovar a assinatura.
 4. Editor: Adobe Premiere Pro num Mac M4 Max. O Premiere MCP só roda no Windows, então a timeline vai por XML importado no Premiere.
 5. Toda entrega vira linha no Cronograma. Todo uso de crédito atualiza o Saldo em Créditos IA.
 6. Não envie e-mail, Slack nem convite de agenda sem o Fern pedir.

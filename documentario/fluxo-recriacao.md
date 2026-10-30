@@ -13,7 +13,7 @@ Quando usar: só onde o montador marcou FALTA COBERTURA e não existe imagem rea
 2. **Referências.**
    - Ambiente: foto real do lugar quando existir; senão, imagem gerada (Firefly ou Dreamina). Sem pessoas e sem texto pequeno.
    - Personagens: foto de referência aprovada ou folha de personagem.
-3. **Blocking no Blender** (Claude + conector oficial do Blender), colando `documentario/blender/PROMPT_BLOCKING.md`.
+3. **Blocking no Blender** (Claude + conector oficial do Blender no Mac, ou Blender na nuvem do Higgsfield 3D Jutsu, sem crédito), colando `documentario/blender/PROMPT_BLOCKING.md`.
    - Personagens como blocos: cubo de corpo + esfera de cabeça, uma cor por personagem, frente da cabeça marcada. Nada de boneco com rig: quanto mais detalhado, mais o Seedance copia o movimento robótico.
    - Câmeras e cortes com a regra dos 180°. Animatic 720p em MP4 com a duração da fala.
 4. **Gate: o Fern aprova o animatic.** Até aqui, nenhum crédito gasto.
