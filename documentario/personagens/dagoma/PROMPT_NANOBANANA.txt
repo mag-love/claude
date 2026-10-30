@@ -1,0 +1,28 @@
+Using the uploaded reference images as the source of truth for character identity, generate a complete character reference sheet preserving every detail of the original character. The character is DAGOMA, a Brazilian DJ, with his DJ turntable flight cases.
+
+LAYOUT — single image, four panels plus a props row:
+1. THREE-QUARTER FRONT VIEW — full body, natural stance, weight on back foot, holding one turntable flight case against his chest with both arms.
+2. SIDE PROFILE VIEW — exact 90-degree side, full body, carrying the case; the depth and handles of the case readable.
+3. BACK VIEW — full body from behind, silhouette readable, case visible.
+4. FACE CLOSE-UP PANEL — front-facing, collarbone up, neutral expression.
+All four panels on the same sheet, evenly spaced, same scale, same eyeline.
+
+ABOVE THE PANELS: bold sans-serif character name "DAGOMA" with the role label "DJ" underneath.
+BELOW THE PANELS: a 5-swatch color palette strip (skin / hair / primary garment / accent / background) and a small PROPS row showing the turntable flight case alone, closed, from the front and from the top.
+
+PRESERVE FROM THE REFERENCE EXACTLY:
+- Face — bone structure, eye shape, nose, lips, skin tone, age — identical in every panel
+- Hair — length, texture, color, fall direction
+- Outfit — every garment, every detail, fabric behavior, fit, accessories
+- Props — the turntable flight cases exactly as in the reference: shape, size, color, material, hardware, stickers and wear
+- Render style — photographic, same treatment as the reference
+- Lighting — same key direction, same color temperature, same shadow behavior across all panels
+
+BACKGROUND: clean neutral light grey. Not a busy environment.
+
+CONSTRAINTS:
+- Do not redesign anything. Extend the existing character into new angles.
+- Do not beautify, slim, de-age or smooth the skin. This is a real person in a documentary.
+- No logos or text other than the name, the role label and the panel labels.
+- Full body visible in the front, side and back panels. No cropping.
+- 4K, ultra-detailed, sharp focus.
