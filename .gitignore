@@ -2,3 +2,4 @@ documentario/transcricoes/
 documentario/personagens/*/saida/
 __pycache__/
 documentario/blender/*.blend
+documentario/personagens/*/referencias/

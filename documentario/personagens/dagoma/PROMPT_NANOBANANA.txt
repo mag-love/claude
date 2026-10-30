@@ -1,5 +1,11 @@
 Using the uploaded reference images as the source of truth for character identity, generate a complete character reference sheet preserving every detail of the original character. The character is DAGOMA, a Brazilian DJ, with his DJ turntable flight cases.
 
+REFERENCES:
+- Image 1: his face — the source of truth for identity.
+- Image 2: his body and outfit — black snapback cap with a round white patch and grey brim, heather-grey oversized T-shirt with a dark print, thick silver chain with a cross, forearm tattoos.
+- Image 3: the flight cases — silver aluminum frame, black panels, black ball corners, metal latches. Use these exact cases.
+- Image 4: pose reference only (how he holds a turntable against his body). Ignore its clothing and background.
+
 LAYOUT — single image, four panels plus a props row:
 1. THREE-QUARTER FRONT VIEW — full body, natural stance, weight on back foot, holding one turntable flight case against his chest with both arms.
 2. SIDE PROFILE VIEW — exact 90-degree side, full body, carrying the case; the depth and handles of the case readable.
@@ -23,6 +29,6 @@ BACKGROUND: clean neutral light grey. Not a busy environment.
 CONSTRAINTS:
 - Do not redesign anything. Extend the existing character into new angles.
 - Do not beautify, slim, de-age or smooth the skin. This is a real person in a documentary.
-- No logos or text other than the name, the role label and the panel labels.
+- Keep the patch and prints that are on his clothes in the references; add no new logos or text beyond the name, the role label and the panel labels.
 - Full body visible in the front, side and back panels. No cropping.
 - 4K, ultra-detailed, sharp focus.

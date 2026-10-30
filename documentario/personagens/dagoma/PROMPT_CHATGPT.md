@@ -5,6 +5,8 @@ Anexe de 2 a 4 fotos boas do Dagoma (rosto nítido, corpo inteiro, com os cases 
 ```
 You are a character design specialist. I'm uploading reference images of a real person, DAGOMA, a Brazilian DJ, with his DJ turntable flight cases. Your task is to create a complete character reference sheet for AI video production that preserves his exact identity and his cases across multiple views.
 
+REFERENCES: image 1 = his face (source of truth for identity); image 2 = body and outfit (black snapback with round white patch and grey brim, heather-grey oversized T-shirt with dark print, thick silver chain with a cross, forearm tattoos); image 3 = the flight cases (silver aluminum frame, black panels, black ball corners, metal latches); image 4 = pose reference only for how he holds a turntable — ignore its clothing and background.
+
 STEP 1 — ANALYZE THE UPLOADED IMAGES
 Before generating, extract and lock these eight variables from the references:
 1. RENDER STYLE — photographic; note grain, sharpness and texture handling.
@@ -34,5 +36,5 @@ NON-NEGOTIABLE RULES
 - The render style extracted in Step 1 must be preserved exactly. Do not "clean up" or smooth the treatment.
 - All views must share the same eyeline height for sheet readability.
 - Background: clean neutral light grey, no environment.
-- No logos or extra text beyond the name, role label and panel labels.
+- Keep the patch and prints that are on his clothes in the references; add no new logos or text beyond the name, role label and panel labels.
 ```

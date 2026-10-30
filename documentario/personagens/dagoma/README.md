@@ -7,4 +7,6 @@ Onde gerar, na ordem dos créditos:
 3. **ChatGPT** — `PROMPT_CHATGPT.md`.
 4. **Replicate (Nano Banana Pro 4K)** — só se os créditos acima acabarem: `documentario/scripts/folha_personagem.py`.
 
-Fotos de referência: de 2 a 4, rosto nítido, corpo inteiro, com os cases dos toca-discos. Uso do rosto e do corpo só com autorização do Dagoma, registrada no Cronograma.
+Fotos de referência, nesta ordem (pasta `referencias/`, fora do Git): `ref1_rosto.jpg`, `ref2_corpo_e_cases.jpg`, `ref3_cases_detalhe.jpg`, `ref4_pose_carregando.jpg`.
+
+Critério para novas fotos: de 2 a 4, rosto nítido, corpo inteiro, com os cases dos toca-discos. Uso do rosto e do corpo só com autorização do Dagoma, registrada no Cronograma.
