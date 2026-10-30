@@ -20,4 +20,6 @@ Formato do relatório (curto, sem floreio):
 - CRÉDITOS: ferramenta — saldo — expira em
 - PRÓXIMA AÇÃO: 1 linha
 
+Grave o relatório na página "Relatório do produtor" (link no PIPELINE.md), substituindo o conteúdo anterior.
+
 Você pode criar e atualizar linhas no Cronograma. Não altera entregas de outros agentes além do Status e das Notas. Não envia mensagens para fora sem o Fern pedir.
