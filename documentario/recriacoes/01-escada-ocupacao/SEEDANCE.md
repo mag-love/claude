@@ -33,6 +33,22 @@ Shot 3 (7.0–10.0 s): straight top-down view from the top of the stairwell, mat
 Style: observational documentary, natural available light, subtle film grain. No music. Ambient sound only: footsteps on concrete, his breathing, distant voices and a radio from other floors. No text, no logos.
 ```
 
+## Plano 4: câmera desce pelo vão e cruza com ele subindo (5 s)
+
+Animatic: `animatic_plano04_cruzamento.mp4`. Frame do cruzamento: `key_1289_cruzamento.png` (aos 2 s).
+
+```
+Documentary recreation, 5 seconds, 16:9, one continuous shot.
+
+Location: same stairwell as image 1 and image 2. Character: DAGOMA, the man in image 2, carrying a heavy DJ turntable flight case in both arms.
+
+Use video 1 only as a guide for camera path, camera speed and framing. The colored blocks are placeholders: the blue block is DAGOMA, the yellow dot marks where his face points, the orange box is the turntable case. Do not copy their poses or body mechanics.
+
+Ultra wide-angle lens (14mm). The camera drops straight down the open stairwell at a steady speed, like a crane falling through the well. It starts high, looking down at DAGOMA as he climbs a flight. At 2 seconds the camera passes him at close range: he is beside the lens, face lit by the warm window light, working hard under the weight of the case. The camera keeps falling and tilts up as he continues climbing above it and disappears behind the parapet. The floors keep sliding up past the lens until the end.
+
+Style: observational documentary, natural available light, subtle film grain. No music. Ambient sound only: footsteps on concrete, his breathing, the whoosh of the camera move, distant voices from other floors. No text, no logos.
+```
+
 ## Rota B: storyboard
 
 Frames-chave do animatic para pintar com o modelo de imagem (mesmo enquadramento, aplicando image 1 e image 2) e depois animar sem o vídeo:
