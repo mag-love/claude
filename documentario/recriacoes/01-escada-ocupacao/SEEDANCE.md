@@ -9,7 +9,10 @@
 
 - **video 1** = `animatic_escada_v1.mp4`
 - **image 1** = frame real da escada em plongée (o que tem o vão até o térreo)
-- **image 2** = frame real com a pessoa subindo (figurino: boné, camiseta branca, bermuda vermelha com listra branca, tênis azul)
+- **image 2** = folha de personagem do Dagoma na idade da cena (`documentario/personagens/dagoma/referencias/folha_<ano>_<idade>anos.jpg`)
+- **image 3** = `documentario/personagens/dagoma/referencias/ref3_cases_detalhe.jpg` (o case real)
+
+**Look pintado (opcional):** se adotarmos o visual da folha para todas as recriações, troque a linha Style por: `Style: painted look matching the character sheet in image 2, visible brushwork, warm earthy palette, documentary camera behavior.`
 
 O rosto e o corpo do Dagoma só entram com a aprovação dele. Registre nas Notas da entrega no Cronograma.
 
@@ -18,9 +21,9 @@ O rosto e o corpo do Dagoma só entram com a aprovação dele. Registre nas Nota
 ```
 Documentary recreation, 10 seconds, 16:9, three cuts.
 
-Location: the stairwell of an occupied building in downtown São Paulo, exactly as in image 1 and image 2: a rectangular open well with rounded white concrete parapets, worn grey concrete steps, peeling teal walls, warm orange window light on the lower floors, cool blue-green ambient light.
+Location: the stairwell of an occupied building in downtown São Paulo, exactly as in image 1: a rectangular open well with rounded white concrete parapets, worn grey concrete steps, peeling teal walls, warm orange window light on the lower floors, cool blue-green ambient light.
 
-Character: DAGOMA, the man in image 2, same wardrobe (cap, white oversized T-shirt, red shorts with white side stripes, blue sneakers), carrying a heavy DJ turntable flight case in both arms.
+Character: DAGOMA exactly as in the character sheet in image 2 (face, body, outfit), carrying the heavy DJ turntable flight case from image 3 in both arms.
 
 Use video 1 only as a guide for camera position, camera moves and cuts. The colored blocks are placeholders: the blue block is DAGOMA, the yellow dot marks where his face points, the orange box is the turntable case. Do not copy their poses or body mechanics; DAGOMA walks naturally and we feel the weight of the case.
 
@@ -40,7 +43,7 @@ Animatic: `animatic_plano04_cruzamento.mp4`. Frame do cruzamento: `key_1289_cruz
 ```
 Documentary recreation, 5 seconds, 16:9, one continuous shot.
 
-Location: same stairwell as image 1 and image 2. Character: DAGOMA, the man in image 2, carrying a heavy DJ turntable flight case in both arms.
+Location: same stairwell as image 1. Character: DAGOMA exactly as in the character sheet in image 2, carrying the turntable flight case from image 3 in both arms.
 
 Use video 1 only as a guide for camera path, camera speed and framing. The colored blocks are placeholders: the blue block is DAGOMA, the yellow dot marks where his face points, the orange box is the turntable case. Do not copy their poses or body mechanics.
 
