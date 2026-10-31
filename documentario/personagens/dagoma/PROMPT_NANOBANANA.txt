@@ -6,6 +6,8 @@ REFERENCES:
 - Image 3: the flight cases — silver aluminum frame, black panels, black ball corners, metal latches. Use these exact cases.
 - Image 4: pose reference only (how he holds a turntable against his body). Ignore its clothing and background.
 
+BODY: he is tall and big — about 1.85 m, broad shoulders, thick square torso, heavy build. The full-body panels must read as a tall, large man. Draw a thin height scale line at 1.80 m behind the full-body panels.
+
 LAYOUT — single image, four panels plus a props row:
 1. THREE-QUARTER FRONT VIEW — full body, natural stance, weight on back foot, holding one turntable flight case against his chest with both arms.
 2. SIDE PROFILE VIEW — exact 90-degree side, full body, carrying the case; the depth and handles of the case readable.

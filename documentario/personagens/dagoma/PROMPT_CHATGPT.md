@@ -7,6 +7,8 @@ You are a character design specialist. I'm uploading reference images of a real 
 
 REFERENCES: image 1 = his face (source of truth for identity); image 2 = body and outfit (black snapback with round white patch and grey brim, heather-grey oversized T-shirt with dark print, thick silver chain with a cross, forearm tattoos); image 3 = the flight cases (silver aluminum frame, black panels, black ball corners, metal latches); image 4 = pose reference only for how he holds a turntable — ignore its clothing and background.
 
+BODY: he is tall and big — about 1.85 m, broad shoulders, thick square torso, heavy build. The full-body views must read as a tall, large man. Draw a thin height scale line at 1.80 m behind the full-body views.
+
 STEP 1 — ANALYZE THE UPLOADED IMAGES
 Before generating, extract and lock these eight variables from the references:
 1. RENDER STYLE — photographic; note grain, sharpness and texture handling.
