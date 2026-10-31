@@ -14,6 +14,14 @@ Cada corte é um salto de 10 anos. Mesma subida, mesmo case, ele mais velho e co
 - **image 4** = `folha_2026_42anos.jpg` (refeita com a altura certa)
 - **image 5** = `ref3_cases_detalhe.jpg`
 
+## No Dreamina
+
+1. AI Video → Seedance 2.5 (ou 2.0) → **Omni reference**.
+2. No **+**, suba o animatic e as 5 imagens nesta ordem. O 2.0 aceita até 12 referências, o 2.5 até 50.
+3. Cole o prompt abaixo e troque "video 1" e "image 1…5" pelas tags @ que o Dreamina mostrar para cada arquivo.
+4. 16:9, 10 s, na menor resolução disponível. Uma geração só, para conferir.
+5. O Dreamina restringe rosto de pessoa real nas referências. Se recusar alguma imagem: no frame da escada, corte as pessoas da borda esquerda; nas folhas, o visual pintado tende a passar.
+
 ## Prompt (colar no Seedance)
 
 ```
