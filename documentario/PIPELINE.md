@@ -28,6 +28,8 @@ As demais regras vão sendo definidas durante o processo.
 4. Editor: Adobe Premiere Pro num Mac M4 Max. O Premiere MCP só roda no Windows, então a timeline vai por XML importado no Premiere.
 5. Toda entrega vira linha no Cronograma. Todo uso de crédito atualiza o Saldo em Créditos IA.
 6. Não envie e-mail, Slack nem convite de agenda sem o Fern pedir.
+7. O Dagoma só é acionado quando o corte estiver mais fechado (autorização de imagem, tema do orfanato). Nenhum agente entra em contato com ele antes.
+8. Produtora: Fernando Magnata Produções Artísticas (ME).
 
 ## Como cada ferramenta é usada
 
