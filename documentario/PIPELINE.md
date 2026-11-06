@@ -1,6 +1,6 @@
 # Doc Dagoma — pipeline de agentes
 
-Contexto comum. Todo agente lê este arquivo antes de agir.
+Contexto comum. Todo agente lê este arquivo e `documentario/MEMORIA.md` antes de agir. Nada de repetir pesquisa ou transcrição que já está registrada na memória.
 
 ## Norte criativo (prioridade agora)
 
